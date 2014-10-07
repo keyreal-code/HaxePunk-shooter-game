@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="graphics/graphics.png" width="128" height="72">
+	<sprite n="playerShip" x="0" y="0" w="64" h="48"/>
+	<sprite n="enemyShip" x="64" y="0" w="64" h="48"/>
+	<sprite n="bullet" x="0" y="48" w="14" h="24"/>
+	<sprite n="powerup" x="14" y="48" w="22" h="24"/>
+	<sprite n="explosion" x="36" y="48" w="22" h="24"/>
+	<sprite n="heart" x="58" y="48" w="22" h="24"/>
+</TextureAtlas>
